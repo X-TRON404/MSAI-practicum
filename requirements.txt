@@ -1,0 +1,10 @@
+fvcore==0.1.5.post20221221
+k3d==2.16.1
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.13.1
+scikit-image==0.21.0
+tqdm==4.66.4
+streamlit==1.35.0
+tqdm==4.66.4
